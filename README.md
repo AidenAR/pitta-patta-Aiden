@@ -37,6 +37,6 @@ Frontend: The Front end was done using stream-lit.
 
 ![IMG_9167](https://github.com/user-attachments/assets/613ea94b-7f1d-4d28-bfd1-162730728c1a)
 
-
+![WhatsApp Image 2024-10-17 at 12 35 50 AM](https://github.com/user-attachments/assets/05e263ea-8804-434f-8596-256a411c164a)
 
 
