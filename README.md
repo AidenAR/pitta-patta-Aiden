@@ -25,3 +25,18 @@ Model: Our project is built on a Sequence-to-Sequence (Seq2Seq) model, tailored 
 The encoder compresses the input into a context vector, while the decoder generates the output sequence. We chose Long Short-Term Memory (LSTM) networks to handle the complexity of sequential data.
 
 Frontend: The Front end was done using stream-lit.
+
+# Pictures
+<img width="1440" alt="Screenshot_2024-10-06_at_2 59 03_PM" src="https://github.com/user-attachments/assets/f283cd91-62cf-49c2-a65d-823329c3da92">
+
+<img width="1440" alt="Screenshot_2024-10-06_at_2 58 47_PM" src="https://github.com/user-attachments/assets/51ecbcad-13ff-463d-91f8-8ced3fa6f5eb">
+
+<img width="1440" alt="Screenshot_2024-10-06_at_2 59 50_PM" src="https://github.com/user-attachments/assets/17e0495c-5174-4733-a070-d0ee6671098a">
+
+<img width="1440" alt="Screenshot_2024-10-06_at_2 59 42_PM" src="https://github.com/user-attachments/assets/31585641-6d09-42c2-b4ad-22d44bc0f20b">
+
+![IMG_9167](https://github.com/user-attachments/assets/613ea94b-7f1d-4d28-bfd1-162730728c1a)
+
+
+
+
